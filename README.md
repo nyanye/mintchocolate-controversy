@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
 ## 최종 결과
 
-| 방법론 | 호 | 불호 |
+| 방법론 | 긍정 | 부정 |
 |---|:---:|---:|
-| [Google Sentiment API를 통한 Twitter 호불호 분석](https://www.youtube.com/watch?v=QTgRNer2epE) | 70.5% | 29.5%
-| [TextBlob을 통한 YouTube 덧글 호불호 분석](#youtube의-코멘트-데이터를-분석해보자) | 65.5% | 34.5% 
+| [Google Sentiment API를 통한 Twitter 감정 분석](https://www.youtube.com/watch?v=QTgRNer2epE) | 70.5% | 29.5%
+| [TextBlob을 통한 YouTube 덧글 감정 분석](#youtube의-코멘트-데이터를-분석해보자) | 65.5% | 34.5% 
