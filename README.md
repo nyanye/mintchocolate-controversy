@@ -22,7 +22,11 @@ Q. 트위터에 특정 인구통계 집단이 밀집되어 있고, 그들이 민
 * 수집 방법: [Youtube Comment Suite](https://github.com/mattwright324/youtube-comment-suite)
 * 데이터셋: 개인정보 보호를 위해서 별도 업로드는 하지 않음
 
-![Youtube scraping configuration](./resources/youtube_configuration.png)
+![YouTube scraping configuration](./resources/youtube_configuration.png)
+* 코멘트 수집 설정
+
+![YouTube comments examples](./resources/comments_examples.png)
+* 수집된 코멘트 json 파일들
 
 ### Youtube 코멘트 데이터 초간단 전처리 & TextBlob 초간단 감정분석
 ```python
